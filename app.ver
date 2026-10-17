@@ -6,5 +6,12 @@
     "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Android-Windows/releases/download/110/BeedeokeHive_v110.apk",
     "changelog": "test changelog",
     "forceUpdate": true
+  },
+  "windowsUpdate": {
+    "versionCode": 14,
+    "versionName": "1.4.0",
+    "apkUrl": "https://raw.githubusercontent.com/mkshtofficial/BeedeokeHive-Android-Windows/releases/download/14/BeedeokeHivePC_v14.exe",
+    "changelog": "",
+    "forceUpdate": true
   }
 }
